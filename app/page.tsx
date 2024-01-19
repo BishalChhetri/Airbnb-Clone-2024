@@ -35,3 +35,4 @@ const App = async ({ searchParams }: AppProps) => {
 };
 
 export default App;
+export const dynamic = "force-dynamic";
